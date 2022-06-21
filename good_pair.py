@@ -8,4 +8,5 @@ def solve(nums):
    return count
 
 nums = [5,6,7,5,5,7,7,6]
-print(solve(nums))
+
+solve(nums)
